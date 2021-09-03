@@ -18,7 +18,7 @@ Leetcode学习和题目题解 Rust语言入门笔记 Uva题目题解 CleanCode�
 ###### 我是一名准大二 截至今年开学（2021.9）
 
 ###### 欢迎各位加我邮箱认识一下，可以一起玩！
-###### github_public@llonvne.cn
+###### github@llonvne.cn
 <!--
 **Llonvne/Llonvne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
