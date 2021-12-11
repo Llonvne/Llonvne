@@ -11,7 +11,7 @@
 ---
 
 ###### 这是我近期会开始更新的内容
-Leetcode学习和题目题解 Rust语言入门笔记 Uva题目题解 CleanCode学习笔记 TensorFlow学习笔记 和 linux学习笔记 还会有 CTF笔记
+Leetcode学习和题目题解 Rust语言入门笔记 Uva题目题解 CleanCode学习笔记 和 linux学习笔记
 
 ---
 
