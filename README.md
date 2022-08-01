@@ -6,6 +6,8 @@
 
 ##### I am an undergraduate student from a Chinese university
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@04e86d0b-03a0-46cb-9f15-ffd9aae14342/19c4203c-ee4e-4c8a-9414-3b1dc354a497.png" /></a>
+
 ---
 
 ###### 我将会在Github上更新 如下内容的笔记和学习过程
