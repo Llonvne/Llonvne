@@ -6,25 +6,27 @@
 
 ##### I am an undergraduate student from a Chinese university
 
+##### 📧Email:Github@Llonvne.cn
+
+---
+
+### 😉我的一年～
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Llonvne&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 😁我喜欢的语言～
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Llonvne&hide=HTML,css,javascript&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🤠编程了吗
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@04e86d0b-03a0-46cb-9f15-ffd9aae14342/19c4203c-ee4e-4c8a-9414-3b1dc354a497.png" /></a>
 
 ---
 
-###### 我将会在Github上更新 如下内容的笔记和学习过程
-###### 这是我现在正在Github上更新的内容
-数据结构 ACM C++PrimerPlus 和 C++沉思录 Leetcode学习和题目题解
 
----
-
-###### 这是我近期会开始更新的内容
-Rust语言入门笔记 Uva题目题解 CleanCode学习笔记 和 linux学习笔记
-
----
-
-###### 我是一名大二
-
-###### 欢迎各位加我邮箱认识一下，可以一起玩！
-###### github@llonvne.cn
 <!--
 **Llonvne/Llonvne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
