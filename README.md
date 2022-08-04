@@ -8,6 +8,8 @@
 
 ##### 📧Email:Github@Llonvne.cn
 
+[![wakatime](https://wakatime.com/badge/user/04e86d0b-03a0-46cb-9f15-ffd9aae14342.svg)](https://wakatime.com/@04e86d0b-03a0-46cb-9f15-ffd9aae14342)
+
 ---
 
 ### 😉我的一年～
@@ -22,8 +24,7 @@
 ---
 
 ### 🤠编程了吗
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@04e86d0b-03a0-46cb-9f15-ffd9aae14342/19c4203c-ee4e-4c8a-9414-3b1dc354a497.png" /></a>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Llonvne)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
