@@ -4,9 +4,9 @@
 
 ### Hi there 👋 I am Llonvne;
 
-###### 我是一名来自中国的大学的本科生
+###### 我是一名来自以太坊开发者
 
-##### I am an undergraduate student from a Chinese university
+##### I am an ehtereum developer.
 
 ##### 📧Email:Github@Llonvne.cn
 
